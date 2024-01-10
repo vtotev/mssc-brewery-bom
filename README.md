@@ -1,1 +1,3 @@
-# mssc-brewery-bom
+# MSSC Brewery BOM
+
+Spring Boot Microservice example
